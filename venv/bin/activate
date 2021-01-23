@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/mac_randeath/Desktop/python/insta_crawl_python/venv"
+VIRTUAL_ENV="/Users/mac_randeath1/Desktop/깃헙/insta_crawl_python_renew/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -29,7 +29,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/mac_randeath/Desktop/python/insta_crawl_python/venv"
+set -gx VIRTUAL_ENV "/Users/mac_randeath1/Desktop/깃헙/insta_crawl_python_renew/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
